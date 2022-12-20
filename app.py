@@ -68,4 +68,4 @@ def prediction():
 if __name__ == "__main__":
     print("Starting Python Flask Server")
     load_saved_artifacts()
-    app.run(debug=True)
+    app.run(host= "0.0.0.0",port= 5001,debug=True)
