@@ -16,6 +16,8 @@ Web App Link (AWS EC2) - http://ec2-3-20-226-15.us-east-2.compute.amazonaws.com/
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
+8. AWS EC2 for deployment
+9. Postman tool to check APIs
 
 ## License and Copyright
 ©Shivpal Wadkar Licensed under the [MIT License](LICENSE).
