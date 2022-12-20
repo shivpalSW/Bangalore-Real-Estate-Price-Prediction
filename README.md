@@ -18,8 +18,6 @@ Web App Link (AWS EC2) - http://ec2-3-20-226-15.us-east-2.compute.amazonaws.com/
 7. HTML/CSS/Javascript for UI
 
 ## License and Copyright
-© Shivpal Wadkar
-Licensed under the [MIT License](LICENSE).
+©Shivpal Wadkar Licensed under the [MIT License](LICENSE).
 
-## Credits
-Referring to [codebasics](https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices) helped me alot.
+
