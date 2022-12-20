@@ -7,7 +7,7 @@ This Web App is deployed to cloud (AWS EC2) where it can be accesssed. Running l
 Web App Link(Heroku) - https://bangalore-house-price-predict.herokuapp.com/<br/>
 Web App Link (AWS EC2) - http://ec2-3-20-226-15.us-east-2.compute.amazonaws.com/
 
-![image](WebApp.png)
+![image](WebApp1.png)  ![image](WebApp2.png) 
 ## Technologies used:
 1. Python
 2. Numpy and Pandas for data cleaning
